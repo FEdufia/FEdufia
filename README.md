@@ -7,7 +7,7 @@
 
 I am a Ph.D. candidate in Oceanography at the University of Delaware with a strong background in marine biogeochemistry, fisheries science, and general biochemistry. My current research focuses on understanding the molecular composition of surfactants, the biological processes that shape them, and their influence on air-sea interactions.
 
-I work in the [WozMOG Lab](https://sites.udel.edu/wozmog-lab/) at the University of Delaware's School of Marine Science and Policy in Lewes, DE under the supervision of Dr. Andrew Wozniak. I have participated in 5 research cruises across the Atlantic and Pacific Oceans.
+I work in the [WozMOG Lab](https://sites.udel.edu/wozmog-lab/) at the University of Delaware's School of Marine Science and Policy in Lewes, DE under the supervision of Dr. Andrew Wozniak.
 
 ---
 
