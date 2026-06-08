@@ -36,6 +36,8 @@ My PhD investigates the sources, transformations, and properties of surfactants 
 
 ## Selected publications
 
+- **Agblemanyo, F. E., et al. (2026).** Identifying biological sources and indicators of surfactants in the sea surface microlayer and subsurface waters using fluorescence and microbial community profiling, *EGUSphere.* [Preprint] [DOI: 10.5194/egusphere-2026-3084](https://doi.org/10.5194/egusphere-2026-3084)
+
 - **Coffey, N. R., Agblemanyo, F. E., et al. (2025).** Unsaturated aliphatic and sulfur-containing organic matter as surfactants in the surface microlayer. *Marine Chemistry.* [DOI: 10.1016/j.marchem.2025.104547](https://doi.org/10.1016/j.marchem.2025.104547)
 
 - **Bowen, M. R., Agblemanyo, F. E., et al. (2025).** Influence of seasonal succession on microbiological and physiochemical composition in shallow estuarine sediments. *Environmental Microbiology.* [DOI: 10.1111/1462-2920.70194](https://doi.org/10.1111/1462-2920.70194)
