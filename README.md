@@ -35,14 +35,16 @@ My PhD investigates the sources, transformations, and properties of surfactants 
 ---
 
 ## Selected publications
+- **Agblemanyo, F. E., Frossard, A. A., Wozniak, A. S., Ammer, D., & Birt, A. E. (2026).** The Rosette-Based Glass Plate (RGP) Sampler: A Cost-Effective Technique for High-Volume, Low-Thickness Sea Surface Microlayer Collection.  *Limnology and Oceanography - Methods*  [DOI: 10.1002/lom3.70081](https://doi.org/10.1002/lom3.70081)
+  
+- **Agblemanyo, F. E.,Ammer, D., Birt, A., Bowen, M., Biddle, J., Frossard, A. A., & Wozniak, A. S.(2026).** Identifying biological sources and indicators of surfactants in the sea surface microlayer and subsurface waters using fluorescence and microbial community profiling, *EGUSphere.* [Preprint] [DOI: 10.5194/egusphere-2026-3084](https://doi.org/10.5194/egusphere-2026-3084)
 
-- **Agblemanyo, F. E., et al. (2026).** Identifying biological sources and indicators of surfactants in the sea surface microlayer and subsurface waters using fluorescence and microbial community profiling, *EGUSphere.* [Preprint] [DOI: 10.5194/egusphere-2026-3084](https://doi.org/10.5194/egusphere-2026-3084)
+- **Birt, A. E., Ammer, D., Agblemanyo, F. E., Wozniak, A. S., and Frossard, A. A. (2026).** Distinct Lipid Compositions in Seawater and the Sea Surface Microlayer Measured with Liquid Chromatography and High-Resolution Mass Spectrometry, *ACS Earth and Space Chemistry*, [DOI: 10.1021/acsearthspacechem.6c00084 ](https://pubs.acs.org/aesccq/article/doi/10.1021/acsearthspacechem.6c00084/5236975/Distinct-Lipid-Compositions-in-Seawater-and-the)
 
-- **Coffey, N. R., Agblemanyo, F. E., et al. (2025).** Unsaturated aliphatic and sulfur-containing organic matter as surfactants in the surface microlayer. *Marine Chemistry.* [DOI: 10.1016/j.marchem.2025.104547](https://doi.org/10.1016/j.marchem.2025.104547)
+- **Coffey, N. R., Agblemanyo, F. E., McKenna, A. M., & Wozniak, A. S. (2025).** Unsaturated aliphatic and sulfur-containing organic matter as surfactants in the surface microlayer. *Marine Chemistry.* [DOI: 10.1016/j.marchem.2025.104547](https://doi.org/10.1016/j.marchem.2025.104547)
 
-- **Bowen, M. R., Agblemanyo, F. E., et al. (2025).** Influence of seasonal succession on microbiological and physiochemical composition in shallow estuarine sediments. *Environmental Microbiology.* [DOI: 10.1111/1462-2920.70194](https://doi.org/10.1111/1462-2920.70194)
+- **Bowen, M. R., Agblemanyo, F. E., Persad, M. P., Wozniak, A. S., & Biddle, J. F. (2025).** Influence of seasonal succession on microbiological and physiochemical composition in shallow estuarine sediments. *Environmental Microbiology.* [DOI: 10.1111/1462-2920.70194](https://doi.org/10.1111/1462-2920.70194)
 
-- **Agblemanyo et al. (2026).** The Rosette-Based Glass Plate (RGP) Sampler: A Cost-Effective Technique for High-Volume, Low-Thickness Sea Surface Microlayer Collection.  *(Submitted to Limnology and Oceanography - Methods)*
 
 - **Wozniak, A. S., Shah Walter, S. R., Wagner, S., Yucel, M., Barreyre, T., Luther III, G.W., …  Agblemanyo, F.E., et al. (2026).** Direct observation of a mid-ocean ridge eruption and its immediate effects on the deep ocean. *(Submitted to Science)*
 
